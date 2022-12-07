@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3 python3
-# Script by Elias MOUSSA OSMAN SupInfo B.Eng.1 2022-2023
 # Le but de ce mini-projet est de programmer en Python un petit jeu de stratégie combinatoire abstrait nommé Diagonals.
 
 # Entreé des données permetant de jouer
